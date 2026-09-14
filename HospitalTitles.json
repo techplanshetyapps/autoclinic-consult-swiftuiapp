@@ -1,0 +1,28 @@
+{
+  "hospitals": [
+    {
+      "id": "hospital01",
+      "title": "Riverside General Hospital"
+    },
+    {
+      "id": "hospital02",
+      "title": "Lakeside Community Clinic"
+    },
+    {
+      "id": "hospital03",
+      "title": "Evergreen Pediatric Center"
+    },
+    {
+      "id": "hospital04",
+      "title": "Sunrise Cardiac Institute"
+    },
+    {
+      "id": "hospital05",
+      "title": "Harborview Urgent Care"
+    },
+    {
+      "id": "hospital06",
+      "title": "Meadowbrook Family Health"
+    }
+  ]
+}
